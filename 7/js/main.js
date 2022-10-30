@@ -1,0 +1,2 @@
+
+import './rendering-thumbnails.js';
